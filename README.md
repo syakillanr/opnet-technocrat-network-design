@@ -1,2 +1,3 @@
-# opnet-technocrat-network-design
-Comparing the performance of Parallel Computing versus Distributed Computing architectures to determine the most efficient design for the company’s expanding operations
+Case Study Description
+Technocrate Sdn Bhd is conducting a strategic network simulation to optimize its computational infrastructure across South East and East Asia. This project compares the performance of Parallel Computing versus Distributed Computing architectures to determine the most efficient design for the company’s expanding operations. The network model features a hybrid setup in Kuala Lumpur (hosting both Parallel and Distributed zones), a dedicated Parallel node in Johor, and a Distributed node in Tokyo.
+The study evaluates these designs using three key metrics: CPU Time Analysis to measure processing efficiency, Delay Analysis to assess network latency, and Throughput Analysis to quantify data transfer speeds. By simulating these environments over a Wide Area Network (WAN), this project aims to identify the optimal architecture for balancing local processing power with global connectivity needs.
